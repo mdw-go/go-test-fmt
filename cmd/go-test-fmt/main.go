@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mdwhatcott/go-test-fmt/gotest"
+	"github.com/mdw-go/go-test-fmt/gotest"
 )
 
 var Version = "dev"

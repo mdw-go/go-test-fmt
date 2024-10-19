@@ -1,5 +1,5 @@
-module github.com/mdwhatcott/go-test-fmt
+module github.com/mdw-go/go-test-fmt
 
 go 1.22
 
-require github.com/mdwhatcott/testing v1.4.2
+require github.com/mdw-go/testing v1.5.0
